@@ -1,0 +1,30 @@
+# Virtual environment
+myenv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Saved models (large files)
+saved_models/
+
+# Data and results (optional – remove lines if you want to track them)
+data/
+results/
+
+# Raw images and unseen test folder (remove lines if you want to push them)
+cats/
+dogs/
+Unseen/
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
