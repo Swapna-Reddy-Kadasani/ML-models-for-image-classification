@@ -1,6 +1,6 @@
-# Cats vs Dogs Image Classification
+# Multi-Model Deep Learning Pipeline for Binary Image Classification
 
-Binary image classification (cats vs dogs) using multiple deep learning models, with data augmentation and fine-tuning. Built with TensorFlow/Keras.
+**Cats vs Dogs** — Train and compare CNNs and transfer-learned models (ResNet, EfficientNet, MobileNet) with augmentation and fine-tuning. Built with TensorFlow/Keras.
 
 ## Features
 
